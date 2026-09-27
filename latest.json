@@ -1,0 +1,12 @@
+{
+  "version": "1.2.0",
+  "date": "2026-09-27",
+  "notes": [
+    "Güncellemeler artık panelden gelir: yeni sürüm çıkınca üstte ince bir şerit belirir, Güncelle'ye basman yeter.",
+    "↻ Yenile: Spread ve Spread Helper panelleri tek tıkla yeniden yüklenir.",
+    "Yeni görünüm: koyu tema, sade düzen, tek vurgu rengi."
+  ],
+  "zip_url": "https://raw.githubusercontent.com/badideagency/bad-spread-updates/main/releases/Spread_Kurulum_v1.2.0.zip",
+  "sha256": "f73b69416c4702f24a4a8b1317ee73fc8c8f6b106940a9ac87d438d843863559",
+  "min_premiere": "25.6.0"
+}
