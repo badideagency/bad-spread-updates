@@ -1,12 +1,11 @@
 {
-  "version": "1.2.0",
-  "date": "2026-09-27",
+  "version": "1.2.1",
+  "date": "2026-09-29",
   "notes": [
-    "Güncellemeler artık panelden gelir: yeni sürüm çıkınca üstte ince bir şerit belirir, Güncelle'ye basman yeter.",
-    "↻ Yenile: Spread ve Spread Helper panelleri tek tıkla yeniden yüklenir.",
-    "Yeni görünüm: koyu tema, sade düzen, tek vurgu rengi."
+    "Tek kamera / 29.97 fps çekimlerde yanlış 'kırpılmış klip' uyarısı düzeltildi",
+    "Ctrl+Z sonrası tekrar Dağıt/Topla yapılabiliyor; ↻ bu sequence'ın kayıtlarını temizler"
   ],
-  "zip_url": "https://raw.githubusercontent.com/badideagency/bad-spread-updates/main/releases/Spread_Kurulum_v1.2.0.zip",
-  "sha256": "f73b69416c4702f24a4a8b1317ee73fc8c8f6b106940a9ac87d438d843863559",
+  "zip_url": "https://raw.githubusercontent.com/badideagency/bad-spread-updates/main/releases/Spread_Kurulum_v1.2.1.zip",
+  "sha256": "a64a44fcbb94c1d707e34e1d9ebfc79d3c28521a345be04d216df6a75ba84736",
   "min_premiere": "25.6.0"
 }
