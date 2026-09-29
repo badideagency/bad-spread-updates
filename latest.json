@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "date": "2026-09-29",
   "notes": [
-    "Tek kamera / 29.97 fps çekimlerde yanlış 'kırpılmış klip' uyarısı düzeltildi",
-    "Ctrl+Z sonrası tekrar Dağıt/Topla yapılabiliyor; ↻ bu sequence'ın kayıtlarını temizler"
+    "Premiere senkronu bozuksa Topla artık fark ediyor ve bozuk klipleri ayırıyor",
+    "Aynı anda kayıt yapan birden çok DJI mikrofonu artık Topla'yı durdurmuyor (dosyalar yan yana track'lere)"
   ],
-  "zip_url": "https://raw.githubusercontent.com/badideagency/bad-spread-updates/main/releases/Spread_Kurulum_v1.2.1.zip",
-  "sha256": "a64a44fcbb94c1d707e34e1d9ebfc79d3c28521a345be04d216df6a75ba84736",
+  "zip_url": "https://raw.githubusercontent.com/badideagency/bad-spread-updates/main/releases/Spread_Kurulum_v1.3.0.zip",
+  "sha256": "e1af36018bb272d4af8d1897ec471b9092aea1da83f75b249ee2ad1187fab820",
   "min_premiere": "25.6.0"
 }

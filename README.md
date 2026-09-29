@@ -4,6 +4,6 @@ Bu depo yalnız **Spread** (Premiere Pro paneli) ve **Spread Helper** kurulum pa
 burada değildir. Panel açılışta ve 6 saatte bir `latest.json`'u okur; kullanıcı onaylarsa Spread Helper paketi indirir, sha256'yı
 doğrular ve kurar.
 
-Son sürüm: **1.2.1** (2026-09-29) — `releases/Spread_Kurulum_v1.2.1.zip`
+Son sürüm: **1.3.0** (2026-09-29) — `releases/Spread_Kurulum_v1.3.0.zip`
 
 Elle kurulum: zip'i indir → çıkart → `KUR.cmd`.
