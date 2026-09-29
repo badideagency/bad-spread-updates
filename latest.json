@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "date": "2026-09-29",
   "notes": [
-    "Premiere senkronu bozuksa Topla artık fark ediyor ve bozuk klipleri ayırıyor",
-    "Aynı anda kayıt yapan birden çok DJI mikrofonu artık Topla'yı durdurmuyor (dosyalar yan yana track'lere)"
+    "Yeni: SENKRON — sesleri kendi eşleştirir. Şimdilik 'Dene' modunda: timeline'a dokunmadan rapor verir.",
+    "İlk kullanımda ffmpeg (resmî Windows derlemesi, ~88 MB) bir kez indirilir; dosyası sha256 ile doğrulanır."
   ],
-  "zip_url": "https://raw.githubusercontent.com/badideagency/bad-spread-updates/main/releases/Spread_Kurulum_v1.3.0.zip",
-  "sha256": "e1af36018bb272d4af8d1897ec471b9092aea1da83f75b249ee2ad1187fab820",
+  "zip_url": "https://raw.githubusercontent.com/badideagency/bad-spread-updates/main/releases/Spread_Kurulum_v1.4.0.zip",
+  "sha256": "6a858bbb859713faa647521a58f529bff9aad8b590de9e69c5c4a0d063dcc551",
   "min_premiere": "25.6.0"
 }
